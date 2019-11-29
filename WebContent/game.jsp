@@ -89,9 +89,7 @@ boolean allowBlankCards = injector.getInstance(Key.get(new TypeLiteral<Boolean>(
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
   <h1 tabindex="0">
-    Pretend You're <dfn
-    title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
-    Xyzzy</dfn>
+    Pretend You're <dfn title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">Xyzzy</dfn>
   </h1>
   <h3>A <a href="http://cardsagainsthumanity.com/">Cards Against Humanity</a> clone.</h3>
   <p>
